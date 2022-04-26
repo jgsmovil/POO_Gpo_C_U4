@@ -20,6 +20,7 @@ public class Daatoss {
        // Encapsular 
        String NumCont = info.getNombre()+" "+info.getCarrera()+" "+info.getSemestre()+"";
         System.out.println("Datos del l¿alumno:  "+NumCont);
+        System.out.println("TEC 2");
     }
     
 }
